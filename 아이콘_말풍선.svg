@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 889.33 655.99">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#_Á_ó_ð_ðÆ_3);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        mix-blend-mode: multiply;
+      }
+
+      .cls-1, .cls-5 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 5px;
+      }
+
+      .cls-6 {
+        mask: url(#mask-5);
+      }
+
+      .cls-2 {
+        fill: url(#_Á_ó_ð_ðÆ_3-4);
+      }
+
+      .cls-7 {
+        mask: url(#mask-1);
+      }
+
+      .cls-5 {
+        fill: url(#_Á_ó_ð_ðÆ_2);
+      }
+
+      .cls-8 {
+        mask: url(#mask-6);
+      }
+
+      .cls-9 {
+        mask: url(#mask-7);
+      }
+
+      .cls-3 {
+        fill: url(#_Á_ó_ð_ðÆ_3-3);
+      }
+
+      .cls-10 {
+        filter: url(#luminosity-noclip-5);
+      }
+
+      .cls-11 {
+        fill: url(#_Á_ó_ð_ðÆ_2-3);
+      }
+
+      .cls-12 {
+        mask: url(#mask);
+      }
+
+      .cls-13 {
+        mask: url(#mask-2);
+      }
+
+      .cls-14 {
+        filter: url(#luminosity-noclip-3);
+      }
+
+      .cls-4 {
+        fill: url(#_Á_ó_ð_ðÆ_3-2);
+      }
+
+      .cls-15 {
+        fill: url(#_Á_ó_ð_ðÆ_2-2);
+      }
+
+      .cls-16 {
+        fill: url(#_Á_ó_ð_ðÆ_2-4);
+      }
+
+      .cls-17 {
+        mask: url(#mask-4);
+      }
+
+      .cls-18 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-19 {
+        filter: url(#luminosity-noclip-7);
+      }
+
+      .cls-20 {
+        mask: url(#mask-3);
+      }
+
+      .cls-21 {
+        filter: url(#luminosity-noclip);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0" y1="422.32" x2="571.89" y2="422.32" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1fd17f"/>
+      <stop offset="1" stop-color="#0a3a3a"/>
+    </linearGradient>
+    <filter id="luminosity-noclip" x="180.73" y="0" width="708.59" height="589.4" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="luminosity-noclip-2" x="180.73" y="-7085.52" width="708.59" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="mask-1" x="180.73" y="-7085.52" width="708.59" height="32766" maskUnits="userSpaceOnUse"/>
+    <linearGradient id="_Á_ó_ð_ðÆ_3" data-name="¹«Á¦ ±×¶óµð¾ðÆ® 3" x1="183.23" y1="294.7" x2="886.83" y2="294.7" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#1a1a1a"/>
+    </linearGradient>
+    <mask id="mask" x="180.73" y="0" width="708.59" height="589.4" maskUnits="userSpaceOnUse">
+      <g class="cls-21">
+        <g class="cls-7">
+          <path class="cls-1" d="M727.94,2.5h-385.82c-87.75,0-158.89,71.14-158.89,158.89v168.14c0,87.75,71.14,158.88,158.89,158.88h108.86l43.27,74.95c18.13,31.39,63.44,31.39,81.57,0l43.27-74.95h108.86c87.75,0,158.89-71.14,158.89-158.88v-168.14c0-87.75-71.14-158.89-158.89-158.89Z"/>
+        </g>
+      </g>
+    </mask>
+    <linearGradient id="_Á_ó_ð_ðÆ_2" data-name="¹«Á¦ ±×¶óµð¾ðÆ® 2" x1="183.23" y1="294.7" x2="886.83" y2="294.7" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <filter id="luminosity-noclip-3" x="285.99" y="189.25" width="120.53" height="120.53" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="luminosity-noclip-4" x="285.99" y="-7085.52" width="120.53" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="mask-3" x="285.99" y="-7085.52" width="120.53" height="32766" maskUnits="userSpaceOnUse"/>
+    <linearGradient id="_Á_ó_ð_ðÆ_3-2" data-name="¹«Á¦ ±×¶óµð¾ðÆ® 3" x1="285.99" y1="249.52" x2="406.52" y2="249.52" xlink:href="#_Á_ó_ð_ðÆ_3"/>
+    <mask id="mask-2" x="285.99" y="189.25" width="120.53" height="120.53" maskUnits="userSpaceOnUse">
+      <g class="cls-14">
+        <g class="cls-20">
+          <path class="cls-4" d="M406.52,249.52c0,33.28-26.98,60.27-60.27,60.27s-60.27-26.98-60.27-60.27,26.98-60.27,60.27-60.27,60.27,26.98,60.27,60.27Z"/>
+        </g>
+      </g>
+    </mask>
+    <linearGradient id="_Á_ó_ð_ðÆ_2-2" data-name="¹«Á¦ ±×¶óµð¾ðÆ® 2" x1="285.99" y1="249.52" x2="406.52" y2="249.52" xlink:href="#_Á_ó_ð_ðÆ_2"/>
+    <filter id="luminosity-noclip-5" x="471.95" y="189.25" width="120.53" height="120.53" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="luminosity-noclip-6" x="471.95" y="-7085.52" width="120.53" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="mask-5" x="471.95" y="-7085.52" width="120.53" height="32766" maskUnits="userSpaceOnUse"/>
+    <linearGradient id="_Á_ó_ð_ðÆ_3-3" data-name="¹«Á¦ ±×¶óµð¾ðÆ® 3" x1="471.95" y1="249.52" x2="592.48" y2="249.52" gradientTransform="translate(332.32 -303.25) rotate(45)" xlink:href="#_Á_ó_ð_ðÆ_3"/>
+    <mask id="mask-4" x="471.95" y="189.25" width="120.53" height="120.53" maskUnits="userSpaceOnUse">
+      <g class="cls-10">
+        <g class="cls-6">
+          <circle class="cls-3" cx="532.22" cy="249.52" r="60.27" transform="translate(-20.55 449.42) rotate(-45)"/>
+        </g>
+      </g>
+    </mask>
+    <linearGradient id="_Á_ó_ð_ðÆ_2-3" data-name="¹«Á¦ ±×¶óµð¾ðÆ® 2" x1="471.95" y1="249.52" x2="592.48" y2="249.52" gradientTransform="translate(332.32 -303.25) rotate(45)" xlink:href="#_Á_ó_ð_ðÆ_2"/>
+    <filter id="luminosity-noclip-7" x="657.92" y="189.25" width="120.53" height="120.53" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <filter id="luminosity-noclip-8" x="657.92" y="-7085.52" width="120.53" height="32766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="mask-7" x="657.92" y="-7085.52" width="120.53" height="32766" maskUnits="userSpaceOnUse"/>
+    <linearGradient id="_Á_ó_ð_ðÆ_3-4" data-name="¹«Á¦ ±×¶óµð¾ðÆ® 3" x1="657.92" y1="249.52" x2="778.45" y2="249.52" gradientTransform="translate(386.79 -434.75) rotate(45)" xlink:href="#_Á_ó_ð_ðÆ_3"/>
+    <mask id="mask-6" x="657.92" y="189.25" width="120.53" height="120.53" maskUnits="userSpaceOnUse">
+      <g class="cls-19">
+        <g class="cls-9">
+          <circle class="cls-2" cx="718.18" cy="249.52" r="60.27" transform="translate(33.91 580.92) rotate(-45)"/>
+        </g>
+      </g>
+    </mask>
+    <linearGradient id="_Á_ó_ð_ðÆ_2-4" data-name="¹«Á¦ ±×¶óµð¾ðÆ® 2" x1="657.92" y1="249.52" x2="778.45" y2="249.52" gradientTransform="translate(386.79 -434.75) rotate(45)" xlink:href="#_Á_ó_ð_ðÆ_2"/>
+  </defs>
+  <path class="cls-18" d="M440.63,188.65H131.26C58.77,188.65,0,247.42,0,319.91v132.43c0,72.49,58.77,131.26,131.26,131.26h86.37l28.52,49.4c17.69,30.64,61.91,30.64,79.6,0l28.52-49.4h86.37c72.49,0,131.26-58.77,131.26-131.26v-132.43c0-72.49-58.77-131.26-131.26-131.26Z"/>
+  <g class="cls-12">
+    <path class="cls-5" d="M727.94,2.5h-385.82c-87.75,0-158.89,71.14-158.89,158.89v168.14c0,87.75,71.14,158.88,158.89,158.88h108.86l43.27,74.95c18.13,31.39,63.44,31.39,81.57,0l43.27-74.95h108.86c87.75,0,158.89-71.14,158.89-158.88v-168.14c0-87.75-71.14-158.89-158.89-158.89Z"/>
+  </g>
+  <g class="cls-13">
+    <path class="cls-15" d="M406.52,249.52c0,33.28-26.98,60.27-60.27,60.27s-60.27-26.98-60.27-60.27,26.98-60.27,60.27-60.27,60.27,26.98,60.27,60.27Z"/>
+  </g>
+  <g class="cls-17">
+    <circle class="cls-11" cx="532.22" cy="249.52" r="60.27" transform="translate(-20.55 449.42) rotate(-45)"/>
+  </g>
+  <g class="cls-8">
+    <circle class="cls-16" cx="718.18" cy="249.52" r="60.27" transform="translate(33.91 580.92) rotate(-45)"/>
+  </g>
+</svg>
